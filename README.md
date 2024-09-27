@@ -1,4 +1,4 @@
-# Emilio Garza
+# Emilio Garza - Senior Software Engineer
 
 ## Professional Summary
 
@@ -14,7 +14,7 @@ Experienced Senior Software Engineer with a strong background in developing high
 
 ## Professional Experience
 
-**VSP Vision Care**  
+**VSP Vision**  
 *Senior Software Engineer*  
 **Jan 2023 - Present**  
 - Lead technical design and development for major features, mentoring junior engineers.
