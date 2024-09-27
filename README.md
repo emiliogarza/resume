@@ -8,7 +8,7 @@ Experienced Senior Software Engineer with a strong background in developing high
 
 - **Languages:** Java, JavaScript, TypeScript, PHP, HTML, CSS
 - **Frameworks:** Spring Boot, Angular, React
-- **Tools & Technologies:** AWS, Salesforce, WordPress, Spring Batch
+- **Tools & Technologies:** Magnolia CMS, AWS, Salesforce, WordPress, Spring
 - **Methodologies:** Agile, Scrum, Code Reviews, QA
 - **Other:** 508 Accessibility, Front-end Best Practices, Server Management
 
